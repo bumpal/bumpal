@@ -137,8 +137,9 @@
 <div class="products">
   <div class="product">
     <img src="decor3.jpg" alt="Зураг 3">
-    <h3>Car Decor</h3>
-    <p class="price">15,000₮ <span class="old-price">22,000₮</span></p>
+    <h3>Cool wall clock
+    Sb dunk</h3>
+    <p class="price">199900₮ <span 
     <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
   </div>
 </div>
