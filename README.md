@@ -95,18 +95,19 @@
     <h1>DripSpace Brand</h1>
     <p>Yo sneaker fam, welcome to the heat zone! 👠🚀</p>
   </header>  <main>
-    <div class="banner">Онцлох бараанууд | Хямдралтай бараанууд</div>
+    <div class="banner">Онцлох бараанууд | 
+      Хямдралтай бараанууд</div>
     <div class="products">
       <div class="product">
         <img src="product1.jpg" alt="Бараа 1">
-        <h3>Air Max 97</h3>
-        <p>Үнэ: 320,000₮</p>
+        <h3h travis scott</h3>
+        <p>Үнэ: 149900₮</p>
         <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
       </div>
       <div class="product">
         <img src="product2.jpg" alt="Бараа 2">
-        <h3>Jordan 1</h3>
-        <p>Хямдралтай үнэ: 280,000₮</p>
+        <h3>jordan 1</h3>
+        <p> Үнэ: 175000</p>
         <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
       </div>
     </div><div class="cart">
