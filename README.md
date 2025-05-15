@@ -121,14 +121,16 @@
     <div class="products">
       <div class="product">
         <img src="decor1.jpg" alt="Зураг 1">
-        <h3>Ханын Чимэглэл</h3>
-        <p class="price">49,000₮ <span class="old-price">59,000₮</span></p>
+        <h3>Cool wall clock
+        Travis scott</h3>
+        <p class="price">149900₮ <span class="old-price">159900₮</span></p>
         <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
       </div>
       <div class="product">
         <img src="decor2.jpg" alt="Зураг 2">
-        <h3>LED Чийдэн</h3>
-        <p class="price">29,000₮</p>
+        <h3>Wall clock
+        Air jordan 1-12</h3>
+        <p class="price">175000₮</p>
         <button onclick="alert('Таны данс: 123456789 - Хаан банк')">Захиалах</button>
       </div>
     </div><div class="section-title">Хямдралтай</div>
